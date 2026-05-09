@@ -29,7 +29,7 @@ Fake-Learning is a novel approach to enhance the generation quality of large lan
 - **Domain Adaptation**: The token collocation matrix can be computed from domain-specific corpora to adapt the model to specialized fields.
 - **Plug-and-Play**: Fake-Learning can be integrated into existing models without retraining, requiring only the pre-computed collocation matrix.
 
-![Fake-Learning Framework](Fake-Learning.pdf)
+![Fake-Learning Framework](Fake-Learning.png)
 
 ## How to Use
 
